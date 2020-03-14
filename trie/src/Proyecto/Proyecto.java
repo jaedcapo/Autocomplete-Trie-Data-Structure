@@ -44,15 +44,7 @@ public class Proyecto extends JFrame implements KeyListener, ActionListener {
     
     public static void main(String[] args){
     /*
-        Trie t = new Trie();
-        t.insert("nna");
-        t.insert("name");
-        t.insert("new york");
-        t.insert("nickelodeon");
-        t.insert("nickelback");
-        t.insert("nibba");
-        
-        
+
         
         List<String> a = t.autocomplete("ni");
         */
